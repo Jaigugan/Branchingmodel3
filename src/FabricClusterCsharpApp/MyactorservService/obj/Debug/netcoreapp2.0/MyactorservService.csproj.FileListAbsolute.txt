@@ -1,0 +1,12 @@
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/MyactorservService/bin/Debug/netcoreapp2.0/MyactorservService.deps.json
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/MyactorservService/bin/Debug/netcoreapp2.0/MyactorservService.runtimeconfig.json
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/MyactorservService/bin/Debug/netcoreapp2.0/MyactorservService.runtimeconfig.dev.json
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/MyactorservService/bin/Debug/netcoreapp2.0/MyactorservService.dll
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/MyactorservService/bin/Debug/netcoreapp2.0/MyactorservService.pdb
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/MyactorservService/bin/Debug/netcoreapp2.0/Myactorserv.Interfaces.dll
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/MyactorservService/bin/Debug/netcoreapp2.0/Myactorserv.Interfaces.pdb
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/MyactorservService/obj/Debug/netcoreapp2.0/MyactorservService.csproj.CoreCompileInputs.cache
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/MyactorservService/obj/Debug/netcoreapp2.0/MyactorservService.AssemblyInfoInputs.cache
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/MyactorservService/obj/Debug/netcoreapp2.0/MyactorservService.AssemblyInfo.cs
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/MyactorservService/obj/Debug/netcoreapp2.0/MyactorservService.dll
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/MyactorservService/obj/Debug/netcoreapp2.0/MyactorservService.pdb

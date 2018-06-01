@@ -1,0 +1,8 @@
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/Myactorserv.Interfaces/bin/Debug/netstandard2.0/Myactorserv.Interfaces.deps.json
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/Myactorserv.Interfaces/bin/Debug/netstandard2.0/Myactorserv.Interfaces.dll
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/Myactorserv.Interfaces/bin/Debug/netstandard2.0/Myactorserv.Interfaces.pdb
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/Myactorserv.Interfaces/obj/Debug/netstandard2.0/Myactorserv.Interfaces.csproj.CoreCompileInputs.cache
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/Myactorserv.Interfaces/obj/Debug/netstandard2.0/Myactorserv.Interfaces.AssemblyInfoInputs.cache
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/Myactorserv.Interfaces/obj/Debug/netstandard2.0/Myactorserv.Interfaces.AssemblyInfo.cs
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/Myactorserv.Interfaces/obj/Debug/netstandard2.0/Myactorserv.Interfaces.dll
+/Users/Gugan/Work/Fabric Cluster/FabricClusterCsharpApp/src/FabricClusterCsharpApp/Myactorserv.Interfaces/obj/Debug/netstandard2.0/Myactorserv.Interfaces.pdb

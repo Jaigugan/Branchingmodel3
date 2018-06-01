@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Myactorserv Application</Description>
+    <Authors> </Authors>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>MyactorservService</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <PackageId>MyactorservService</PackageId>
+    <PackageTargetFallback>$(PackageTargetFallback)</PackageTargetFallback>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../Myactorserv.Interfaces/Myactorserv.Interfaces.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ServiceFabric.Actors" Version="3.0.456" />
+    <PackageReference Include="Microsoft.ServiceFabric" Version="6.1.456" />
+    <PackageReference Include="Microsoft.ServiceFabric.Services" Version="3.0.456" />
+  </ItemGroup>
+
+</Project>
